@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: 6a8b2b9da183bcd4087898704177e83d
-timeCreated: 1458169631
+guid: d56ff7f8f272a554ca8f9315a8659f12
+timeCreated: 1458221643
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pCylinder1
+    100002: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group19
+    100004: pasted__pasted__pCylinder1_pasted__group13_group14
     400000: //RootNode
-    400002: pCylinder1
-    2300000: pCylinder1
-    3300000: pCylinder1
-    4300000: pCylinder1
+    400002: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group19
+    400004: pasted__pasted__pCylinder1_pasted__group13_group14
+    2300000: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group19
+    2300002: pasted__pasted__pCylinder1_pasted__group13_group14
+    3300000: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group19
+    3300002: pasted__pasted__pCylinder1_pasted__group13_group14
+    4300000: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group19
+    4300002: pasted__pasted__pCylinder1_pasted__group13_group14
   materials:
     importMaterials: 1
     materialName: 0
