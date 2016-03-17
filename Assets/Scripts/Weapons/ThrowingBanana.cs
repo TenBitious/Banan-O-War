@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class ThrowingBanana : MonoBehaviour {
-
+    
     private Rigidbody myRigidbody;
 
     public float rotationSpeed;
