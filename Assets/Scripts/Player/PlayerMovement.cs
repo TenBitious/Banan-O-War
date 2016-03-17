@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
 
-    Rigidbody myRigidBody;
+    private static Rigidbody myRigidBody;
 
     public KeyCode keyForward, keyLeft, keyRight, keyDown;
     private bool pressForward, pressLeft, pressRight, pressDown;
@@ -143,5 +143,14 @@ public class PlayerMovement : MonoBehaviour {
         {
             myRigidBody.velocity = Vector3.zero;
         }
+    }
+
+    public float GetSpeed
+    {
+        get
+        {
+            return myRigidBody.velocity.magnitude;
+        }
+
     }
 }
