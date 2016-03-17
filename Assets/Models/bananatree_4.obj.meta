@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: d5322ef5a662222478aa316953024412
+timeCreated: 1458222006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group13_pasted__group10_pasted__group9_pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100004: group13_pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__group10_pasted__group9
+    100006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__pasted__group10_pasted__pasted__pasted__pasted__group9_pasted__pasted__pasted__group11_pasted__pasted__group13_pasted__group16_group25
+    100008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group24
+    100010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group15
+    100012: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__group10_pasted__pasted__pasted__group9_pasted__pasted__group12_pasted__group13_group21
+    100014: pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group22
+    100016: pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group23
+    100018: pasted__pCylinder1_group13
+    400000: //RootNode
+    400002: group13_pasted__group10_pasted__group9_pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400004: group13_pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__group10_pasted__group9
+    400006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__pasted__group10_pasted__pasted__pasted__pasted__group9_pasted__pasted__pasted__group11_pasted__pasted__group13_pasted__group16_group25
+    400008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group24
+    400010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group15
+    400012: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__group10_pasted__pasted__pasted__group9_pasted__pasted__group12_pasted__group13_group21
+    400014: pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group22
+    400016: pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group23
+    400018: pasted__pCylinder1_group13
+    2300000: group13_pasted__group10_pasted__group9_pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    2300002: group13_pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__group10_pasted__group9
+    2300004: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__pasted__group10_pasted__pasted__pasted__pasted__group9_pasted__pasted__pasted__group11_pasted__pasted__group13_pasted__group16_group25
+    2300006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group24
+    2300008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group15
+    2300010: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__group10_pasted__pasted__pasted__group9_pasted__pasted__group12_pasted__group13_group21
+    2300012: pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group22
+    2300014: pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group23
+    2300016: pasted__pCylinder1_group13
+    3300000: group13_pasted__group10_pasted__group9_pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    3300002: group13_pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__group10_pasted__group9
+    3300004: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__pasted__group10_pasted__pasted__pasted__pasted__group9_pasted__pasted__pasted__group11_pasted__pasted__group13_pasted__group16_group25
+    3300006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group24
+    3300008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group15
+    3300010: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__group10_pasted__pasted__pasted__group9_pasted__pasted__group12_pasted__group13_group21
+    3300012: pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group22
+    3300014: pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group23
+    3300016: pasted__pCylinder1_group13
+    4300000: group13_pasted__group10_pasted__group9_pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300002: group13_pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__group10_pasted__group9
+    4300004: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__pasted__group10_pasted__pasted__pasted__pasted__group9_pasted__pasted__pasted__group11_pasted__pasted__group13_pasted__group16_group25
+    4300006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group24
+    4300008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere3_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group15
+    4300010: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__pasted__group10_pasted__pasted__pasted__group9_pasted__pasted__group12_pasted__group13_group21
+    4300012: pasted__pasted__pasted__pasted__pasted__pSphere1_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group22
+    4300014: pasted__pasted__pasted__pasted__pasted__pSphere2_pasted__pasted__group10_pasted__pasted__group9_pasted__group13_group23
+    4300016: pasted__pCylinder1_group13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
